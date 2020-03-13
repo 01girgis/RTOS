@@ -1,0 +1,7 @@
+ml_math_func.h:48:21:inv_q30_to_float	16	static
+freertos.c:84:13:vApplicationMallocFailedHook	4	static
+freertos.c:103:6:vApplicationGetIdleTaskMemory	24	static
+freertos.c:117:6:MX_FREERTOS_Init	136	static
+freertos.c:168:6:thread_sensors_func	112	static
+freertos.c:271:6:thread_lcd_func	1184	static
+freertos.c:301:6:thread_bt_func	16	static

@@ -1,0 +1,3 @@
+mpu_drv.c:22:6:mpu_i2c_init	16	static
+mpu_drv.c:26:12:mpu_i2c_write	40	static
+mpu_drv.c:33:12:mpu_i2c_read	40	static

@@ -1,0 +1,6 @@
+freertos.c:72:13:vApplicationMallocFailedHook	4	static
+freertos.c:92:6:MX_FREERTOS_Init	88	static
+freertos.c:146:6:th1_led_fun	24	static
+freertos.c:172:6:th2_led_fun	24	static
+freertos.c:200:6:th3_sos_fun	24	static
+freertos.c:221:6:HAL_GPIO_EXTI_Callback	16	static

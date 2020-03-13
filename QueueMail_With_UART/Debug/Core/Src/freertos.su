@@ -1,0 +1,5 @@
+freertos.c:86:13:vApplicationMallocFailedHook	4	static
+freertos.c:105:6:vApplicationGetIdleTaskMemory	24	static
+freertos.c:119:6:MX_FREERTOS_Init	88	static
+freertos.c:167:6:thread_sensor_func	104	static
+freertos.c:220:6:thread_uart_func	576	static
